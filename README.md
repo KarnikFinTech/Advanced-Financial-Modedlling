@@ -1,1 +1,1 @@
-# Advanced-Financial-Modedlling
+# Advanced-Financial-Modelling
